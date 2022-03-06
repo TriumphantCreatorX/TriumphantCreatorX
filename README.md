@@ -9,27 +9,6 @@
 <!-- ⚙️ Optional Setting -->
 <!-- ⬅️ End -->
 
-<style>
-  /* ➡️ CSS (Cascading Style Sheets) File! */
-
-  h1 { /* ✅ No Errors */
-    border: none;
-    outline: none;
-    height: 15vw;
-    font-family: 'Fredoka One';
-    font-size: 15vw;
-    text-align: center;
-    /* ⚙️ cursor: pointer; */
-    background-size: 0vw 15vw;
-    background-position: 0vw 0vw;
-    background-color: rgba(255, 255, 255, 0);
-    position: relative;
-    background: linear-gradient(to bottom, #CCF7FF, #00AECD);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-</style>
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
