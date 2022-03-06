@@ -1,3 +1,20 @@
+<!-- ➡️ CSS (Cascading Style Sheets) File! -->
+
+<!-- Key: -->
+<!-- ➡️ Start -->
+<!-- ✅ Success -->
+<!-- ⚠️ Danger -->
+<!-- ❌ Error -->
+<!-- ℹ️ Information -->
+<!-- ⚙️ Optional Setting -->
+<!-- ⬅️ End -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+
+<link href="DefaultStyle.css" rel="stylesheet" type="text/css" title="Default Style">
+
 <h1 align="center">Hi 👋, I'm TriumphantCreatorX</h1>
 <h3 align="center">A multi-tasking software developer.</h3>
 
