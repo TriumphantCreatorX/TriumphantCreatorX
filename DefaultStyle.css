@@ -1,0 +1,28 @@
+/* ➡️ CSS (Cascading Style Sheets) File! */
+
+/* Key:
+➡️ Start
+✅ Success
+⚠️ Danger
+❌ Error
+ℹ️ Information
+⚙️ Optional Setting
+⬅️ End
+*/
+
+h1 { /* ✅ No Errors */
+  border: none;
+  outline: none;
+  height: 15vw;
+  font-family: 'Fredoka One';
+  font-size: 15vw;
+  text-align: center;
+  /* ⚙️ cursor: pointer; */
+  background-size: 0vw 15vw;
+  background-position: 0vw 0vw;
+  background-color: rgba(255, 255, 255, 0);
+  position: relative;
+  background: linear-gradient(to bottom, #CCF7FF, #00AECD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
