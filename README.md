@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **Node.JS and JavaScript.**
 
-- 📫 How to reach me **Discord: TriumphantCreatorX#9573 (May Change)**
+- 📫 How to reach me **Discord: [TriumphantCreatorX#9573](https://www.discordapp.com/users/680533789671292955) (May Change)**
 
 - ⚡ Fun fact **I program everyday!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/TriumphantCreatorX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TriumphantCreatorX" height="30" width="40" /></a>
-<a href="https://discord.gg/TriumphantCreatorX#9573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TriumphantCreatorX#9573" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/680533789671292955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TriumphantCreatorX#9573" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
