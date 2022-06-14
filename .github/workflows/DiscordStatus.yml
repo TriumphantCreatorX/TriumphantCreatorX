@@ -13,7 +13,7 @@ jobs:
       - name: Update Status
         uses: CompeyDev/discord-status-action@0.2.4
         with:
-          file: README.md
+          file: DiscordStatus.yml
           id: "680533789671292955"
       - name: Commit and push if there are changes
         run: |-
